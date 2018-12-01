@@ -12,14 +12,16 @@ To provide dalyed message in rabbitmq we should install rabbitmq_delayed_message
     
     Then run the following command:
     rabbitmq-plugins enable rabbitmq_delayed_message_exchange
-    
+
+or we can use configured docker image :
+
 **Docker Images**
   
-  Images rabbitmq with installed :
+  Images rabbitmq with plugins :
   
-  1. managment 
-  1. delayed-message plugins 
+  1. managment
+  2. delayed-message 
   
-    tetsuobe/rabbitmq-delayed-message-exchange
+    image : tetsuobe/rabbitmq-delayed-message-exchange
     
 
