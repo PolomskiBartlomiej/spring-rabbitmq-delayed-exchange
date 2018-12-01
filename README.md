@@ -1,1 +1,1 @@
-# spring-rabbitmq-delayed-exchange2
+# spring-rabbitmq-delayed-exchange
