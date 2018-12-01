@@ -1,0 +1,5 @@
+rabbitmq:
+  image: tetsuobe/rabbitmq-delayed-message-exchange
+  ports:
+    - "15672:15672"
+    - "5672:5672"
