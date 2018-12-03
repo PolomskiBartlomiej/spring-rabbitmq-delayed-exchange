@@ -1,4 +1,6 @@
 # spring-rabbitmq-delayed-exchange
+Exploring spring rabbitm with delayed exchange plugin
+
 Preferences: http://www.rabbitmq.com/community-plugins.html
 
 # description
